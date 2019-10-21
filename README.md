@@ -1,2 +1,2 @@
 # TSV_Augmentation
-Augmentation for OCR TSV output
+Augmentation for labelled OCR TSV data
